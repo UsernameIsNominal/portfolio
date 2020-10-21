@@ -1,0 +1,47 @@
+li{
+  list-style: none;
+  font-family:serif;
+}
+.main{
+  background-color: #640125;
+  height: 700px;
+  background-size:cover;
+}
+.top-wrapper ul{
+  text-align: right;
+  padding-right: 20px;
+}
+.top-wrapper li{
+  display: inline-block;
+  font-size: 20px;
+  color:#f8f4e6;
+  padding: 10px 5px;
+}
+.main-left {
+  float: left;
+}
+.maim-right{
+  float: right;
+  padding: 50% 50%;
+}
+.main-right h1,p{
+  color: #f8f4e6;
+  text-align:center;
+}
+.main-right h1{
+  font-size: 50px;
+}
+.main-right p{
+  font-size: 30px;
+}
+a {
+  text-decoration: none;
+  color: #4ac0b9;
+}
+
+a:hover {
+  text-decoration:underline;
+}
+
+a:visited {
+  color: #4ac0b9;
